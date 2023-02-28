@@ -34,6 +34,11 @@ Jest Node Module
 - Git Hub: https://github.com/aidanespinosa
 - Email: aidanespinosa3@gmail.com
 
-## Link to how-to-video
+## Link to deployed Application
 
-N/A
+https://aidanespinosa.github.io/password-generator/
+
+## Screenshot
+
+![mmscreenshot]
+(./password.jpeg)
